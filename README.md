@@ -7,3 +7,4 @@ Note: In order to perform CRUD operations, json-server must be running locally (
  - Crud operations,
  - form validations (such as writing in e-mail format, not being able to leave an empty box, not being able to select a date for people under 18),
  - filtering operations
+ - Material CSS
