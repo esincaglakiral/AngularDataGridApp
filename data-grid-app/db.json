@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Esin Çağla",
+      "lastName": "KIRAL",
+      "email": "caglakiral@gmail.com",
+      "dob": "2016-05-03T21:00:00.000Z",
+      "gender": "2",
+      "education": "Diploma",
+      "company": "Vivavis",
+      "experience": 7,
+      "package": 19,
+      "id": 1
+    },
+    {
+      "firstName": "test",
+      "lastName": "tested",
+      "email": "test@example.com",
+      "dob": "2023-09-11T21:00:00.000Z",
+      "gender": "2",
+      "education": "Intermediate",
+      "company": "Yahoo",
+      "experience": 1,
+      "package": 15,
+      "id": 2
+    },
+    {
+      "firstName": "Isabella",
+      "lastName": "Manson",
+      "email": "imanson@outlook.com",
+      "dob": "2016-02-01T22:00:00.000Z",
+      "gender": "2",
+      "education": "Graduate",
+      "company": "Tesla",
+      "experience": 9,
+      "package": 46,
+      "id": 3
+    }
+  ]
+}
